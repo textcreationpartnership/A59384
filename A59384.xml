@@ -1,0 +1,376 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several living testimonies given forth by divers friends to the faithful labours and travels of that faithful and constant servant of the Lord, Robert Lodge ... ; also, two general epistles, written by himself long since to the believers in Christ, and are now printed for their edification and refreshment.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59384</idno>
+            <idno type="STC">Wing S2782</idno>
+            <idno type="STC">ESTC R32654</idno>
+            <idno type="EEBO-CITATION">12740057</idno>
+            <idno type="OCLC">ocm 12740057</idno>
+            <idno type="VID">93112</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59384)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93112)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1536:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several living testimonies given forth by divers friends to the faithful labours and travels of that faithful and constant servant of the Lord, Robert Lodge ... ; also, two general epistles, written by himself long since to the believers in Christ, and are now printed for their edification and refreshment.</title>
+               </titleStmt>
+               <extent>55 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Sowle ...,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained, with print show-through, tightly bound with slight loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lodge, Robert.</term>
+               <term>Society of Friends --  England.</term>
+               <term>Witness bearing (Christianity)</term>
+               <term>Eulogies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93112:1"/>
+            <pb facs="tcp:93112:1" rendition="simple:additions"/>
+            <p>SEVERAL Living Teſtimonies Given forth by divers Friends TO THE Faithful Labours and Travels Of that Faithful and Conſtant Servant of the LORD</p>
+            <p>
+               <hi>Robert Lodge</hi>
+            </p>
+            <p>Who was a true Miniſter of the Goſpel of Chriſt, a Valient Sufferer for the Teſtimony of a good Conſcience, &amp; one that held out to the end, and is ſaved.</p>
+            <p>ALSO, Two General Epiſtles, written by himſelf long ſince, to the Believers in Chriſt; And are now Printed for their Edification and Refreſhment.</p>
+            <p>
+               <hi>The Name of the Righteous ſhall be had in Everlaſting Remembrance,</hi> &amp;c.</p>
+            <p>Printed for <hi>T. Sowle;</hi> And Sold at the Crooked Billet in <hi>H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>-Lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, Sh<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ditch,</hi> 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="testimony">
+            <pb facs="tcp:93112:2"/>
+            <pb n="3" facs="tcp:93112:2"/>
+            <head>The Teſtimony of <hi>Peter Hardcaſtle</hi> concerning the Life and Death of <hi>Robert Lodge.</hi>
+            </head>
+            <p>THis our Friend and Brother, a Servant of the Lord Jeſus Chriſt, <hi>Robert Lodge,</hi> I was acquainted with before we were ga<g ref="char:EOLhyphen"/>thered to be a Meeting, to ſit down in ſilence to wait upon God in his Light; for he then lived near me, with one related to me, and we had much diſcourſe about Religious mat<g ref="char:EOLhyphen"/>ters, and he ſaw the Errors of the Prieſts more clearly than I did, and was ſerviceable to me at that time: But after this, it pleaſed the Lord to ſend his faithful Servants amongſt us to Preach the everlaſting Goſpel; and they directed our minds to the Light
+<pb n="4" facs="tcp:93112:3"/>of it in our Conſciences, and many were convinced of the way to eternal Life and Salvation; and thus were we gathered to be a Meeting, to ſit in the ſilence of Fleſh, waiting upon God in his Light. And in proceſs of time, we being gathered in the Name of the Lord Jeſus, he made his Power known in our Meeting in an admi<g ref="char:EOLhyphen"/>rable manner, to the renting of the Vail, and breaking down the parti<g ref="char:EOLhyphen"/>tion Wall, and raiſing our Souls from Death unto Life, which cauſed great Joy and Comfort in us and amongſt us. And by the Power and Spirit of Life (after a little time) our decea<g ref="char:EOLhyphen"/>ſed Brother <hi>Robert Lodge</hi> was moved to go into <hi>Ireland,</hi> to bear Teſtimo<g ref="char:EOLhyphen"/>ny with other Brethren of the ever<g ref="char:EOLhyphen"/>laſting Truth, and way of Truth and Salvation; and having done his Service there at that time, he return<g ref="char:EOLhyphen"/>ed again into <hi>England,</hi> and travelled in many parts of it, and went into <hi>Ireland</hi> again, and travelled in both Nations to viſit the Gatherings of
+<pb n="5" facs="tcp:93112:3"/>the Lord's People, and to ſtir up their pure minds by way of remem<g ref="char:EOLhyphen"/>brance of the manifold Mercies and Favours, and Loving-kindneſſes of God which he hath made known un<g ref="char:EOLhyphen"/>to his People in this our day, after the long Night of Apoſtacy. And the Prophecy of <hi>Daniel</hi> is fulfilled in this our Age, where he ſaith, <hi>Many ſhall run to and fro, and Knowledge ſhall be increaſed;</hi> and he ſaith alſo, <hi>They that be wiſe ſhall ſhine as the brightneſs of the Firmament, and they that turn many to Righteouſneſs as the Stars for ever and ever,</hi> Dan. 12. And he was Inſtrumental in the hand of God to turn many to Jeſus Chriſt, God's Righteouſneſs, the ſure Foun<g ref="char:EOLhyphen"/>dation and Rock of Ages, which yields living Water unto the Soul; and ſo his Teſtimony reached to the Witneſs of God in the Conſciences of many; and I have been many times ſweetly refreſhed under his Teſti<g ref="char:EOLhyphen"/>mony and Miniſtry: Oh the ſweet Union, and Society, and Fellowſhip
+<pb n="6" facs="tcp:93112:4"/>we have had together in the Goſpel, it breaks my Heart, and tenders my Spirit at this time when I am wri<g ref="char:EOLhyphen"/>ting theſe Lines! I loved him before we were gathered, and much more ſince, becauſe of his Sincerity and Truth in his inward parts; for he kept his firſt Love and Habitation in the Truth. And he was Inſtrumen<g ref="char:EOLhyphen"/>tal alſo for building up in the holy Faith, that the Spirit of Oppoſition and Separation might not get advan<g ref="char:EOLhyphen"/>tage to draw us from the Spirit and Power of our Lord Jeſus Chriſt; he was committed to ſeveral Priſons in this Nation, and in <hi>Wakefield</hi>-Priſon he wrote an Epiſtle to Friends; and when he ſuffered Impriſonment, or otherwiſe for the Teſtimony of the Truth, he was kept in patience, and reſted in the will of God: So he ha<g ref="char:EOLhyphen"/>ving kept the Faith and Patience of our Lord Jeſus, and dying in the Lord is at Reſt, his Body is in the Grave, but his Spirit is with the Lord Jeſus, and with the Spirits of
+<pb n="7" facs="tcp:93112:4"/>juſt and holy Men and Women, who have ſerved the Lord in their day, according to his Will revealed unto them by his holy Spirit; Praiſes, Ho<g ref="char:EOLhyphen"/>nour, and Glory to the Lord God and the Lamb for evermore.</p>
+            <closer>
+               <signed>So I having known him ſo long a time, and ſome of his Tryals and Exerciſes, and faithfulneſs to God and his Truth, I could not well but give this ſhort Te<g ref="char:EOLhyphen"/>ſtimony concerning him, <hi>Peter Hardcaſtle</hi> ſenior.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="8" facs="tcp:93112:5"/>
+            <head>
+               <hi>Thomas Whitton</hi> his Teſtimony concerning the Life and Death of <hi>Robert Lodge.</hi>
+            </head>
+            <p>THat the Memory of the Juſt may be had in Remembrance, and the Travel of the Righteous in future Ages not forgotten, this Teſtimony I have to bear for our dear Friend <hi>Robert Lodge,</hi> who is now gone, whoſe Exerciſes and Tra<g ref="char:EOLhyphen"/>vels are at an end, and I doubt not but that he is at reſt with the Lord; He was a man whom I knew above this thirty Years, even from his Youth, who received the Truth in his tender Years in a large meaſure, and the Lord hath made him a very ſerviceable Inſtrument in his hand, for gathering many to the Way of Life, out of the ways of the World, and that in his young Years, both in
+<pb n="9" facs="tcp:93112:5"/>this Nation and alſo in <hi>Ireland,</hi> as many can teſtifie; and not only ſo, but the Lord hath, as I may truly ſay, made him a Son of Conſolation amongſt his People, to the watering and refreſhing of many weary Souls; his Travels in Spirit I knew (being one of the ſame Meeting) even for the hindmoſt of the Flock, and his ſympathizing with thoſe that tra<g ref="char:EOLhyphen"/>velled for the ſame. I alſo knew him in the helping on the Work of the Lord; and when that Life and Power of God roſe in him in a Mee<g ref="char:EOLhyphen"/>ting to the opening his Mouth, the Lord hath made his Words as the <hi>Balm</hi> of <hi>Gillead</hi> to the broken heart<g ref="char:EOLhyphen"/>ed: Much might be ſaid of his Ser<g ref="char:EOLhyphen"/>vice in and for the Truth in his day; and toward the cloſure thereof he laboured with and for the young Friends, that they may come up in the Footſteps of thoſe who are gone before, and at Reſt with the Lord, with many and frequent Supplicati<g ref="char:EOLhyphen"/>ons,
+<pb n="10" facs="tcp:93112:6"/>to the Lord for them, that they might walk as becomes the Truth in their Generation. The time of his Sickneſs was ſhort, but about three or four days, and about three or four days a little ill before, I going to ſee him, asked him how he did, and how it was with him; he gave me ac<g ref="char:EOLhyphen"/>count of his Diſtemper and Infirm<g ref="char:EOLhyphen"/>neſs, and did queſtion his recovery of the ſame, <hi>But,</hi> ſaith he, <hi>the Lord knows my Heart, and that I have ſerved him; and it hath been of more account to me the gaining of one Soul, than all my Labours and Travels.</hi> So I have great cauſe to believe he was in a good ſence of the Recompence of his Reward; ſo leaving him very weak that night, and I going again next day with my Siſter to ſee him, find<g ref="char:EOLhyphen"/>ing him near to Death, and being be<g ref="char:EOLhyphen"/>ſide him in great brokenneſs of Heart to part with ſuch a near Friend he as one ſympathizing with us, ſaid, <hi>We ſhall meet again in Eternity:</hi>
+               <pb n="11" facs="tcp:93112:6"/>Then a little time after his Mouth was opened, and in great power and tenderneſs, with heavenly Expreſ<g ref="char:EOLhyphen"/>ſions and Praiſes to the Lord: and after ſome time again, I went to him, and told him, I was come to take my leave of him, but thought ſee him next day; then he named me by my Name, and ſaid. <hi>It is well with me, and I have no diſturbance in my mind:</hi> He ſpake theſe words as a man at eaſe, from whom the Lord had ta<g ref="char:EOLhyphen"/>ken Sin away, which is the ſting of Death; this being about the third hour in the Afternoon, and he de<g ref="char:EOLhyphen"/>parted this Life that Night, it being the 15th of the 7th Month, 1690.</p>
+            <p>And though his Body be gone to the Earth, yet the Memorial of his Life and Spirit lives with us, as it is written, <hi>For the Righteous ſhall be had in everlaſting Remembrance, and pre<g ref="char:EOLhyphen"/>tious in the ſight: of the Lord is the Death of his Saints, for they reſt from their Labours, and their Works follow
+<pb n="12" facs="tcp:93112:7"/>them, and they live in that Life which is hid with Chriſt in God.</hi>
+            </p>
+            <p>And indeed a Lamentation might be taken up for the loſs of ſuch an Inſtrument in the Hand of the Lord, who had laboured and gathered ma<g ref="char:EOLhyphen"/>ny (by that powerful Word of Truth which the Lord put into his heart) unto God, and alſo to the re<g ref="char:EOLhyphen"/>freſhing, watering, and conſolating of the Heritage of the Lord in that meek lowly Spirit of Life and Love, which very frequently did run through him, and reached the Life in others, for which I cannot but praiſe the Lord for the many Viſitations of his Love in our Meetings; but this bears up our Spirits, that as the Lord hath begun ſo great a work in our day for his Truth and Name ſake, he will carry it on to his own praiſe, and will not leave himſelf without a witneſs upon the Earth, that from Age to Age, and one Ge<g ref="char:EOLhyphen"/>neration after another his own
+<pb n="13" facs="tcp:93112:7"/>Works may praiſe him, who is God, and changes not, to whom be ever<g ref="char:EOLhyphen"/>laſting Praiſe for evermore.</p>
+            <p>
+               <hi>He was buried at</hi> Low-Ellington, <hi>at the Burying-Place for the People of God, the</hi> 17th <hi>of the</hi> 7th <hi>Month,</hi> 1690. <hi>And was accompanied with many Friends of divers parts, and Neigh<g ref="char:EOLhyphen"/>bours alſo, being one well-beloved of the Neighbourhood; and there was a living and ſerviceable Teſtimnoy fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God born that day by our Friend</hi> George Myers, <hi>to the great ſatis<g ref="char:EOLhyphen"/>faction and refreſhment of Friends, and to the Convincing of others.</hi>
+            </p>
+            <closer>
+               <signed>T. W.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="14" facs="tcp:93112:8"/>
+            <head>The Teſtimony of <hi>Miles Oddy</hi> concerning <hi>Ro<g ref="char:EOLhyphen"/>bert Lodge.</hi>
+            </head>
+            <p>AS concerning my dear Friend and Brother <hi>Robert Lodge,</hi> I have had knowledge of him ever <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nce that day it pleaſed the Lord God in his Mercy and Favour to vi<g ref="char:EOLhyphen"/>ſit us, and make his Power known, and manifeſt himſelf both to him and me, and many others in theſe parts; and though he was very young (even a Boy) yet the Lord did won<g ref="char:EOLhyphen"/>derfully appear unto him in his great Love, and God's eternal Power did mightily ſeize upon him, and ope<g ref="char:EOLhyphen"/>rate in him, ſo that he was con<g ref="char:EOLhyphen"/>ſtrained thereby to open his Mouth, and make mention of God's Eternal Power, even when we were but a
+<pb n="15" facs="tcp:93112:8"/>few; and God's witneſs was much reached in ſeveral preſent with us, bleſſed and praiſed be the Name of God for evermore: The mighty Power of God did work wonderfully at that very time in the Hearts of thoſe whom the Lord had touched, and alſo made to believe, but eſpeci<g ref="char:EOLhyphen"/>ally in the Heart of our dear Brother above-mentioned, and thereby in the Lord's due time was he fitted, im<g ref="char:EOLhyphen"/>boldened and raiſed up, and made an Inſtrument in God's hand, and a true and faithful Miniſter of Jeſus Chriſt, and ſent forth by him to preach the everlaſting Goſpel into ſome parts of this Nation of <hi>England,</hi> and in a ſhort time into the Nation of <hi>Ireland,</hi> where he met with many great Tryals and Exerciſes, yet the Lord did mightily preſerve him, and attend him with his bleſſed preſence. What ſhall I ſay or write concerning this our dear Brother in the Lord Jeſus Chriſt, whom the Lord hath
+<pb n="16" facs="tcp:93112:9"/>been now pleaſed to take away from us; ſurely the loſs is very great unto many of God's People, but unto him great gain. When I conſider of the bleſſed and heavenly Opportunities, and wonderful Appearances of God, in, by, and through him many a time amongſt God's People, when met together, my Heart is truly broken and tendred (even as at this preſent time;) and this is my belief of him, he was a man well-beloved of God, and alſo of his People every where, that had a true knowledge of him, and the great Power of God did mightily attend him, and his preſence comfort him; and many ſweet and pretious Teſtimonies have ſounded through him, to the <hi>comforting</hi> &amp; <hi>refreſhing</hi> of God's People in their Aſſemblies. He was convinc'd of <hi>God's</hi> heavenly Way and pretious Truth thirty Years ſince and upward, and hath born a faith<g ref="char:EOLhyphen"/>ful and living Teſtimony for God ever ſince, not only in Words, but
+<pb n="17" facs="tcp:93112:9"/>in Life and Converſation, and alſo in Sufferings, both in this Nation, and in the Nation of <hi>Ireland;</hi> he was a man not ſubject to Paſſion (that ever I did ſee) but meek and gentle and of a healing Spirit.</p>
+            <closer>
+               <dateline>
+                  <hi>Given forth</hi> 
+                  <date> the 18th <hi>Day of the</hi> 8th <hi>Month,</hi> 1690.</date>
+               </dateline>
+               <signed>By <hi>Miles Oddy</hi> ſenior.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="18" facs="tcp:93112:10"/>
+            <head>The Teſtimony of <hi>Thomas Hardcaſtle</hi> ſenior, concern<g ref="char:EOLhyphen"/>ning <hi>Robert Lodge.</hi>
+            </head>
+            <p>IN the tenderneſs and brokenneſs of Heart, and in the remembrance of the goodneſs of the Lord am I made willing to give forth this Teſti<g ref="char:EOLhyphen"/>mony concerning my dear Friend and Brother <hi>Robert Lodge:</hi> In his young Years we travelled many Miles toge<g ref="char:EOLhyphen"/>ther, and great was his Care at that day, in much love to bring me to the knowledge of the Truth, ſparing no Labour nor Pains, in much patience and good-will his endeavour hath been among us, and the Power and Preſence of God hath mightily ap<g ref="char:EOLhyphen"/>peared in and through him many a time, and in Innocency his labour hath been; and great have been his Exerciſes and Abuſes that he recei<g ref="char:EOLhyphen"/>ved from unreaſonable men, but
+<pb n="19" facs="tcp:93112:10"/>the Lord did uphold him, and carry him on in his bleſſed. Work; and many heavenly Teſtimonies hath the Lord enabled him to bear, and our Hearts many times have been com<g ref="char:EOLhyphen"/>forted together, and filled with Prai<g ref="char:EOLhyphen"/>ſes to his holy Name. And this dear Servant of the Lord he was low<g ref="char:EOLhyphen"/>ly in Mind, tender in Spirit, lovely in Behaviour, his Miniſtry very pre<g ref="char:EOLhyphen"/>cious; and truly the Gifts and Graces the Lord beſtowed on him were very large, and in the ſame hath he finiſh<g ref="char:EOLhyphen"/>ed, and laid down, and is gone to Everlaſting Reſt with the Lord for<g ref="char:EOLhyphen"/>ever and evermore.</p>
+            <closer>
+               <signed>This ſhort Teſtimony is given forth in the love of God, by him who is a Lover of Truth and Righteouſneſs, <hi>Thomas Hardcaſtle</hi> ſenior.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="20" facs="tcp:93112:11"/>
+            <head>Katherine Winn's. <hi>Teſtimony concerning</hi> Robert Lodge.</head>
+            <p>THe Memory of the Juſt, and Travels of the Righteous are worthy to be kept in remembrance, and left upon Record to future Ages, in which I am concerned according to my little meaſure, in a ſhort Te<g ref="char:EOLhyphen"/>stimony for our dear Friend and well-beloved Brother <hi>Robert Ledge</hi> who is now deceaſed, and his Tra<g ref="char:EOLhyphen"/>vels at an end, but many are in be<g ref="char:EOLhyphen"/>ing who have reaped the benef<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> thereof; his lot fell to be in our par<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in the time of my Convincemen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and I being a Woman of a deject<g ref="char:punc">▪</g> Mind, he was the firſt that ev<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> reached me with Words of Comfor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which were ſo printed in my hear<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ingraven in my mind, that it n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ver yet was raced out, but often w<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> a ſtrengthening to me through m<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="21" facs="tcp:93112:11"/>Exerciſes, and a confirmation of the love of God to my Soul: It was af<g ref="char:EOLhyphen"/>terwards my happineſs to be of the ſame Meeting, where many were the Spiritual Comforts I received by him; he proclaimed Liberty to the Captives, and ſpoke comfortable words to the Mourners in <hi>Sion,</hi> his Words were as healing Medicines, &amp; as <hi>Gillead's</hi> Balm to many wound<g ref="char:EOLhyphen"/>ed and weary Souls, and that which he planted was frequently watered by him: O the watering Seaſons we have had, that Fountain whic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fre<g ref="char:EOLhyphen"/>quently opened in him, that Rivers and Streams thereof that were con<g ref="char:EOLhyphen"/>veyed by him to many a thirſty tra<g ref="char:EOLhyphen"/>velling Soul, did fill our Hearts with unutterable Joy and unexpreſſable Gladneſs, which cauſeth a Lamen<g ref="char:EOLhyphen"/>tation to be taken up by us for want of such a be-dewing Inſtrument, and loving Nurſing-Father: he was a Son of Conſolation, a planter indeed, and alſo a waterer of the Lord's Plan<g ref="char:EOLhyphen"/>tation, and frequently accompanied
+<pb n="22" facs="tcp:93112:12"/>with the living preſence and power of our heavenly God, which gives the increaſe: He was a ſympathizer with innocent Friends in Joy and in Sorrow; he could mourn with thoſe that mourned, and rejoyce with thoſe that rejoyced, yet his care was over the weak and hindermoſt of the Flock; and we are bowed in Spirit, For want of him, for his preſence could greatly have been deſired by us, and needful for us; but he is diſ<g ref="char:EOLhyphen"/>ſolved, and I believe is now with Chriſt, which for him is far better; and it is our hope, which bears up our Spirits, that the Lord will raiſe up Inſtruments to carry on his own Work to his own praiſes; and he gi<g ref="char:EOLhyphen"/>veth and he taketh, bleſſed be his Name for ever.</p>
+            <p>The time of his Sickneſs being ſhort, at which time I had been weak and but little recovered, I had word if ever I thought to ſee him, I might venture to go; &amp; the next day I went with my Brother to viſit him, and
+<pb n="23" facs="tcp:93112:12"/>found him very weak; he looking up, (and ſaw me full of Sorrow) with a pleaſant Countenance, yet in much brokenneſs, cheerfully ſaid, <hi>What Woman, we muſt meet again, we muſt meet again in Eternity.</hi> And ſitting by him, he gave me an account of his Diſtemper, and of the exerciſe of his mind, and the dealings of the Lord with him, and ſaid, <hi>The Lord knoweth I never was Commiſſionated by him to go any way, or to do any thing, but I have willingly anſwered him, and the Lord who hath been my Rock and Refuge, my Shield and Buckler, and a Sanctuary to me, hath been with me all along to this very day.</hi> With ma<g ref="char:EOLhyphen"/>ny ſuch Expreſſions, and in much brokenneſs and tenderneſs of Spirit he rendred Thanksgiving unto the Lord; and being weak he ſeeming<g ref="char:EOLhyphen"/>ly fell aſleep, and I retiredly ſat by him, and that Life wherein we had often reached one another did ſpring, venly Expreſſions, and pure Praiſes
+<pb n="24" facs="tcp:93112:13"/>to the Lord for his many Deliveran<g ref="char:EOLhyphen"/>ces and great Preſervations, and the continuance of his living preſence, and the opening of the Fountain of his Life and Love unto us to this very day and time, with heavenly Suppli<g ref="char:EOLhyphen"/>cations unto the Lord for the conti<g ref="char:EOLhyphen"/>nuance of his Loving-kindneſs and tender Mercies to his whole Heritage every where; his Exerciſe continu<g ref="char:EOLhyphen"/>ed for a conſiderable ſeaſon, as if he had been in a Meeting, with much brokenneſs of Heart, and tenderneſs of Spirit, as a man filled with hea<g ref="char:EOLhyphen"/>venly and divine matter, which very much broke my Heart, with his Son <hi>Nathan</hi> then by him, which I hope will never be forgotten by me: And after this he weakened very faſt, it being about the third hour of the day; he did ſpeak little more to me, yet ſignifying his gladneſs of my re<g ref="char:EOLhyphen"/>covery, and alſo of my company, and that all was well with him; and falling into a Slumber and Reſt more ſweet and comfortable, as we thought
+<pb n="25" facs="tcp:93112:13"/>than his uſual Sleep had been to him at other times, in much quiet and great meekneſs he departed this Life about the firſt hour that Night. And though he be dead, his Works live to praiſe the Lord, and great was the Work of his Day, in turning many from Darkneſs to Light, and from the power of Satan to the li<g ref="char:EOLhyphen"/>ving God; he bore the burthen in heat of the day, and was a true Tra<g ref="char:EOLhyphen"/>veller for <hi>Sion's</hi> ſake; his Life was comfortable, his latter end happy, he lived the Life of the Righteous, and his latter end was like his: And it is the fervent deſire of my Heart the Lord will be pleaſed in love to his whole Flock, and for his own Honour and great Name ſake, to raiſe up ſerviceable Inſtruments in his Work, ſuch work-men as need not be aſhamed of their work, but can rightly divide the Word of Truth, ſuch Labourers in his Vine<g ref="char:EOLhyphen"/>yard as may gather many Sheaves in<g ref="char:EOLhyphen"/>to his Barn, and Lambs into his Fold,
+<pb n="26" facs="tcp:93112:14"/>as this our deceaſed Brother did; in the days of his Youth, and in his tender years, he thought not his Life dear to venture both by Sea and Land in this Nation, and elſewhere, and was inſtrumental in the Lord's hand, to pluck many as Lambs out of the Wolves mouth, and Brands out of the Fire, which are as Monu<g ref="char:EOLhyphen"/>ments of the Lord<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s mercy this day to praiſe him: And as his Body de<g ref="char:EOLhyphen"/>cayed and ſtrength failed, great was his Travel, and many his Supplica<g ref="char:EOLhyphen"/>tions to the Lord on the behalf of young Friends, that they might riſe in their Day and Age to ſerve and honour him in their Generation. O the Travels, with the ſweet flow<g ref="char:EOLhyphen"/>ing ſtreams of Love reached to us by him can never be forgotten! O the melodious ſound, that heavenly Har<g ref="char:EOLhyphen"/>mony, the eccho of Life which of<g ref="char:EOLhyphen"/>ten ſounded through him, made the Morning-Stars to ſing, and the Saints to ſhout for joy O what can I ſay of him! I am not able to ex<g ref="char:EOLhyphen"/>preſs
+<pb n="27" facs="tcp:93112:14"/>or utter the excellency of the Work of this the Lord's worthy, but hopes it will be done by others better accompliſhed for ſuch a Work than I; but in the diſcharge of what hath lain upon me, according to my little meaſure in this ſhort Teſtimony to leave to Poſterity, and for the encou<g ref="char:EOLhyphen"/>ragement of a future Age, to keep in the Line of Life, and walk in the Path of the Juſt, where heavenly Fe<g ref="char:EOLhyphen"/>licity is to be attained and enjoyed, and Spiritual Pleaſures lived in, which the Almighty in his unchange<g ref="char:EOLhyphen"/>able Love hath been pleaſed to con<g ref="char:EOLhyphen"/>tinue from Age to Age, and by a mighty hand reached from one Ge<g ref="char:EOLhyphen"/>neration to another, that in every Age his own Works may praiſe him, to whom all Praiſes doth belong (and is freely aſcribed from my Soul) now henceforth, and for ever.</p>
+            <closer>
+               <signed>Katherine Winn.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="28" facs="tcp:93112:15"/>
+            <head>The Teſtimony of <hi>Chriſtopher Blackburne,</hi> concerning my dear Friend <hi>Robert Lodge,</hi> who departed this Life the 16th Day of the 7th Month, 1690.</head>
+            <opener>
+               <salute>Dear friends,</salute>
+            </opener>
+            <p>I could not with clearneſs be ſilent in this matter, becauſe I found it as a Duty incumbent upon me, be<g ref="char:EOLhyphen"/>ing one of the ſame Meeting, to write a little amongſt my Brethren, concerning this faithful Champion of the <hi>Lord<g ref="char:punc">▪</g>
+               </hi> whom he hath taken to him<g ref="char:EOLhyphen"/>ſelf, and is at Reſt with him, who is over all, God bleſſed forever. I be<g ref="char:EOLhyphen"/>ing but young in years, have not been ſo long acquainted with him as many have been, but what I know I ſhall write: He was a man that ever had a tender regard over
+<pb n="29" facs="tcp:93112:15"/>me, and other young Friends; and I can truly ſay, his Counſel and Ad<g ref="char:EOLhyphen"/>vice to me when I was a Child, was reaching, and I hope will never be raced out of my remembrance; and as I grew up I loved him as my Fa<g ref="char:EOLhyphen"/>ther, he was of a lovely Counte<g ref="char:EOLhyphen"/>nance, and an undaunted Spirit; his Service was much in the Miniſtry, he had a quiek diſcerning in a Mee<g ref="char:EOLhyphen"/>ting: Oh how hath he laboured for the good of a Meeting, and if at any time a Vail hath been over, or that any ſeemed to be unconcerned, Oh how he would have been weighted, and laboured to with-draw the Vail, and raiſe the Life at ſuch a time; and on the contrary, when the Life was up in a Meeting, and that he ſaw Friends in a Heavenly Order, Oh it was Marrow to his Bones, his very Countenance was comfortable to the Meeting; and his Travel, eſpecially in che latter part of his days, was much for the ſettling the Meeting in a divine Order; and his Prayer for
+<pb n="30" facs="tcp:93112:16"/>us that were young, was frequent in this manner; <hi>Heavenly God, ingraft thy heavenly Truth in the Hearts of our Children, that they may ſtand up to bear Witneſs for thee, when it ſhall pleaſe thee to take us hence.</hi>
+            </p>
+            <p>Now I come to his Sickneſs and Death, which was on this manner, Upon that 4th day at Evening I went to ſee him, as was my uſual manner, when in that Town, not knowing that he was Sick, ſo asked him how he did; he ſaid, <hi>He had a very bad Night the Night before, but was ſome<g ref="char:EOLhyphen"/>thing better:</hi> He alſo told me how it was with him, and ſaid, <hi>That many had dyed of the like Diſtemper, but whe<g ref="char:EOLhyphen"/>ther I dye or not, the Will of the Lord be done.</hi> So I went over Night to ſee him, and he grew weaker and weaker, yet he was able to go till the Firſt Day, and after the Meeting that day he got up by help, for then he was taken with a ſtrong Feaver, which grew extreamly upon him; and as he was getting up, he ſaid,
+<pb n="31" facs="tcp:93112:16"/>Bleſſed be God, I have Heavenly Peace. So after a while I going away, took my leave of him, for I had a ſence of his Death; and he ſaid to me, <hi>He was freely given up to the Will of God.</hi> So the next day I went again, but was not preſent when he did declare, but I underſtood it was powerful as at other times; ſo in the Evening I went, but he was in a ſweet Sleep, and ſo continued till about the firſt or ſecond Hour the next Morning, and ſo departed this Life in a Hea<g ref="char:EOLhyphen"/>venly frame, arid is at Reſt with God, whom he ſerved to the utmoſt of his Power. I can truly ſay, he was a man worthy of Everlaſting Remembrance, and one of the Wor<g ref="char:EOLhyphen"/>thies of God's <hi>Iſrael.</hi> So ſeeing it was the pleaſure of the great God to take him from us, it is the deſire of my heart, that I with the reſt of God's People may be kept and pre<g ref="char:EOLhyphen"/>ſerved in God's heavenly Truth, as this man was, ſo ſhall we meet again in God's Kingdom, where we ſhall
+<pb n="32" facs="tcp:93112:17"/>receive the full of what we enjoy the Earneſt of here.</p>
+            <p>So ſeeing it hath been the plea<g ref="char:EOLhyphen"/>ſure of God, who is the Orderer of all things, and hath the Souls and Bodies of all Men at his diſpoſe, to take this dear Friend from us, we have reaſon to be content, knowing that our Loſs is his Gain, our Sorrow his Joy, I cannot but return him the Praiſe, who is God over all, bleſſed for ever and evermore; <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>Chriſtopher Blackburne.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="33" facs="tcp:93112:17"/>
+            <head>The Teſtimony of <hi>Rebecca Blackburne</hi> concerning <hi>Ro<g ref="char:EOLhyphen"/>bert Lodge,</hi> who departed this Life the 16th Day of the 7th Month, 1690.</head>
+            <p>HE was a dear and loving Friend towards me, and his deſire was much for the proſpe<g ref="char:EOLhyphen"/>rity of Truth, it was great joy to him to hear that the Truth proſpe<g ref="char:EOLhyphen"/>red, eſpecially in thoſe that were young, and that they might bear their Teſtimonies for the Lord, af<g ref="char:EOLhyphen"/>ter the deceaſe of the Elders: One time after the Meeting, he looking towards a young Girle, turned him about, and ſaid, <hi>The Lord bleſs you all Children:</hi> which cauſed me to ſay within my ſelf, Whither is he going?</p>
+            <pb n="34" facs="tcp:93112:18"/>
+            <p>Now ſeeing the Lord hath taken him from us, he is able to preſerve thoſe that are left behind, and will do as we put our truſt in him.</p>
+            <p>So to him that orders all things according to his pleaſure, do I re<g ref="char:EOLhyphen"/>turn all the Honour and Glory, both now henceforth, and for evermore; <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>Rebecca Blackburne.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="35" facs="tcp:93112:18"/>
+            <head>The Teſtimony of <hi>Ann Black<g ref="char:EOLhyphen"/>burne</hi> concerning <hi>Robert Lodge.</hi>
+            </head>
+            <p>THis dear Friend I knew him from a Child, and was ac<g ref="char:EOLhyphen"/>quainted with him from his Youth: He was of a quick apprehenſion, and had much diſcourſe with one <hi>An<g ref="char:EOLhyphen"/>thony Procter,</hi> and Other Prieſts in the days of <hi>Oliver Cromwell,</hi> but they were always put to the worſt by him: He was of a Valient Spirit from his Youth upward; and it was great gladneſs of heart to me to ſee him in a Meeting; it was alſo great Sorrow to me to part with ſo near a Friend; but ſeeing it was the pleaſure of God to take him from us, i<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> my belief he is at reſt with him, who is God, bleſſed for evermore.</p>
+            <closer>
+               <signed>Ann Blackburne.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="36" facs="tcp:93112:19"/>
+            <head>The Teſtimony of <hi>Alice Clarke</hi> concerning <hi>Robert Lodge.</hi>
+            </head>
+            <p>THis is my Teſtimony for my dear Friend <hi>Robert Lodge</hi> of <hi>Maſſam,</hi> lately deceaſed; he was an Inſtrument in the hand of the Lord, and the Lord by him wrought upon the Hearts of many, to turn them out of the broad way of deſtruction, into the narrow way that leads to Life and Salvation; and good cauſe have I amongſt many more to praiſe the Lord that ever I was acquainted with him: I being of the Meeting that he was of, was many a time ſweetly refreſhed and comforted, which I hope ſhall never be forgot<g ref="char:EOLhyphen"/>ten of me <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or raced out of my re<g ref="char:EOLhyphen"/>membrance<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; and though he be gone from us, yet his Spirit is with us in our Meetings, as we come to the Spirits of juſt men made perfect; he
+<pb n="37" facs="tcp:93112:19"/>had a heavenly Gift, and had good skill to uſe it, ſo that he got love of moſt that knew him. He was taken away of a ſhort Sickneſs, and what he ſpake relating to Truth in the time thereof, was much to the ſatis<g ref="char:EOLhyphen"/>faction of all that loved him, for he largely ſignified the love of God to his Soul at that time: He was in his Day a true Traveller in the Lord's Service; and doubtleſs he hath re<g ref="char:EOLhyphen"/>ceived his Reward, and though he be taken from us, I doubt not but the Lord will raiſe many faithful Witneſſes to bear a Teſtimony to his Name, that he may have Honour, to whom all Honour is due.</p>
+            <closer>
+               <signed>Alice Clarke</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="38" facs="tcp:93112:20"/>
+            <head>A Teſtimony concerning our dear Friend and Brother in the Lord <hi>Robert Lodge.</hi>
+            </head>
+            <p>WHo was a <hi>Yorkſhire</hi> man, and dyed in the Lord, in the Year 1690. when he had fulfilled his Miniſtry, and finiſhed his Teſti<g ref="char:EOLhyphen"/>mony, who was often under great Perſecution, Sufferings and Spoiling of Goods, which through the aſſi<g ref="char:EOLhyphen"/>ſtance in the Lord's Power he went through them all joyfully, and ma<g ref="char:EOLhyphen"/>ny times had great Exerciſe with Backſliders, Apoſtates and Prophane. He was a man that laboured and travelled, and had a great Care upon him for the Peace of the Church of Chriſt, and his Government of Peace, the encreaſe of which there is no
+<pb n="39" facs="tcp:93112:20"/>end; he travelled up and down in many places in <hi>England,</hi> freely preaching the Everlaſting Goſpel of our Lord and Saviour, and did turn many to it, being a man much indued with the Gifts of God, and being an Elder and Pillar in the Church of Chriſt; he travelled with me up and down in <hi>Ireland,</hi> jeopar<g ref="char:EOLhyphen"/>died his Life among the <hi>Prieſts</hi> and <hi>Papiſts</hi> there, in the Year, 1669, where there were many large and pretious Meetings of the Lord's Peo<g ref="char:EOLhyphen"/>ple; and the Lord's Preſence and Power was among us and them. And when we had finiſhed our Te<g ref="char:EOLhyphen"/>ſtimony there, we came over into <hi>England,</hi> and in it he travelled up and down, viſiting the Churches of Chriſt, and turned many to the Lord; and he dyed in the Lord in <hi>Yorkſhire,</hi> and is bleſſed, and entred into his Reſt, and is ceaſed from his Labours, and his Works follow him. And much more might be writ of his faith<g ref="char:EOLhyphen"/>ful Labour in the Lord, who was
+<pb n="40" facs="tcp:93112:21"/>well known in the Church of Chriſt, who preacht in his good Life and Converſation, as well as in his Doctrine, and was much be<g ref="char:EOLhyphen"/>loved; and he will be miſſed in the Church of Chriſt, but the Lord can raiſe up more faithful Labourers in his Goſpel to ſtand in his place; <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>The</hi> 13th <hi>of the</hi> 9th <hi>Month,</hi> 1690.</date>
+               </dateline>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="41" facs="tcp:93112:21"/>
+            <head>An Epiſtle To FRIENDS, Written from <hi>Chambruſſel,</hi> in the County of <hi>Armagh</hi> in <hi>Ireland,</hi> the 24th of the 4th Month, 1660.</head>
+            <p>MY dearly beloved Friends, with whom I have Unity in the unchangeable Love and Life in the Lord Jeſus, in whom we receive pure and living Conſolation, where<g ref="char:EOLhyphen"/>by the Seed is refreſhed, which breaths and thirſts after the Fountain of Love and Mercy, which tenderly falls down upon the upright in Heart as Dew to the tender Herb, where<g ref="char:EOLhyphen"/>by that which hath been in the want
+<pb n="42" facs="tcp:93112:22"/>comes to be ſatisfied, and filled with the living Vertue, which comes from the preſence of the Lord; and in this my dearly beloved Friends I ſalute you in the Fountain of Love, Life, and endleſs Joy, which is ſhed abroad in my heart, which ſtreams forth it ſelf through me, whereby the Seed is refreſhed; and in this feel me as you are felt, in the mea<g ref="char:EOLhyphen"/>ſure of the unchangeable Life of God, in which I rejoyce, feeling you in that which is everlaſting, in which my Unity ſtands with you, who are of a broken and contrite Heart, who are kept in a feeling of the dreadful preſence of God. And therefore wait all Friends to feel the Power which raiſes the Seed immor<g ref="char:EOLhyphen"/>tal, to which the Promiſe of Bleſſing is due, which Seed the Lord is ſatis<g ref="char:EOLhyphen"/>fying with the breakings forth of his Love, in all them who in pati<g ref="char:EOLhyphen"/>ence are kept waiting to feel the op<g ref="char:EOLhyphen"/>peration of God's living Power; for by the Power of God comes the
+<pb n="43" facs="tcp:93112:22"/>Seed to be brought out of the weary Land, which the Lord abundantly waters in all the Faithful, who in faithfulneſs are kept near unto the Seed, ſuch come to receive of the loving-kindneſs of God, and to per<g ref="char:EOLhyphen"/>take of his ſweet Mercies, which daily are felt, to the glory of the Lord for ever. Therefore my dear<g ref="char:EOLhyphen"/>ly beloved <hi>Friends,</hi> wait in the Light the Power to feel, that you may be kept ſafe in the Arms of the Lord's love, that you may be ſhadowed over with the Power of the Moſt High God, which is our ſtrength and daily ſupport, wherein we feel the Spirit of the Lord lifting up a Stand<g ref="char:EOLhyphen"/>ard againſt all the Enemies of the Seed.</p>
+            <p>So dear Hearts, be ſtayed in the Light, continually to feel the dread<g ref="char:EOLhyphen"/>ful Power of God accompanying you, unto which all your Enemies muſt become ſubject, whoſe Power and Preſence is felt, wherein our Souls rejoyce, who hath enlarged our
+<pb n="44" facs="tcp:93112:23"/>hearts, and filled us with the hea<g ref="char:EOLhyphen"/>venly joy; for in him we have Peace and Comfort; therefore be not caſt down at the ſight of Affliction, but all be watchful and deligent, to feel the pure workings of the Spirit of Life, whereby a change may be wrought in your Hearts, and you raiſed above the Grave, by the quick<g ref="char:EOLhyphen"/>ening Power of the Almighty God, for in this is Comfort and Refreſh<g ref="char:EOLhyphen"/>ment felt, and Peace and pure Love which many Waters cannot quench; and in this all wait to be knit up and united, that the one Fountain of Love and Mercy may be every parti<g ref="char:EOLhyphen"/>culars ſatisfaction and reward. So reſt your Friend in the Truth,</p>
+            <closer>
+               <signed>Robert Lodge.</signed>
+            </closer>
+            <postscript>
+               <p>Let this be ſent to <hi>Hardcaſtle-Garth,</hi> and ſo to <hi>Maſham.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="text">
+            <pb n="45" facs="tcp:93112:23"/>
+            <head>A Salutation of Love from the Open<g ref="char:EOLhyphen"/>ing of the Springs of eternal Life, unto the Flock of God in Bonds, or elſewhere, ſcattered upon the Earth, but are one in the end<g ref="char:EOLhyphen"/>leſs Life of God, Greeting.</head>
+            <p>DEar Friends, whom the Lord hath viſited with the Day ſpring from on high, and unto whom the Lord hath made known his Pow<g ref="char:EOLhyphen"/>er, and the Arm of his ſtrength for your deliverance, from the deep cap<g ref="char:EOLhyphen"/>tivity that your Souls lay in, in times paſt, when there was none to help you, nor to comfort you; when you ſpent your days in mourning, for want of the preſence of the Lord: and in that day did the Lord hear your groans, and the ſighs of your Spirits, and he appeared for your comfort, when you were comfort<g ref="char:EOLhyphen"/>leſs;
+<pb n="46" facs="tcp:93112:24"/>and in that day the Lord made known his Judgments in you, for the purging of the Droſs out of you, that way might be made in you for the ſweet diſpencing forth of his Mercies: And ſince the Lord pre<g ref="char:EOLhyphen"/>pared you for himſelf, by the work of his own Spirit, how hath he let forth himſelf unto you, to the ma<g ref="char:EOLhyphen"/>king of your Hearts glad, and to the overcoming your Souls with the ſtrength of his love? that hath made you to ſay in ſecret, who is like to the Lord, or what is to be compared with his love? and when your hearts were thus diſpoſed of by him for whom you had waited, what was all the worlds glory to you; for this was more to you than all, whoſe hearts were opened in the ſence of the want of him? And now ſeeing the Lord hath done ſuch great things for you, it is the pleaſure of your God to <hi>try your love</hi> unto himſelf, whether you can follow him to the loſs of all things in this World, yea or nay, for
+<pb n="47" facs="tcp:93112:24"/>ſuch a Birth the life of God hath been long travelling for, and now they are bleſſed that can ſay, This birth is brought forth, in which they can give up all for the enjoy<g ref="char:EOLhyphen"/>ment of the Lord, who hath turned a Wilderneſs into a fruitful Land, and a fruitful Land into barrenneſs in the inward; and he likewiſe is able to make it ſo outwardly, for them that believe and follow him in faith<g ref="char:EOLhyphen"/>fulneſs unto the end. So my well-beloved in the Lord, who have felt his Judgments &amp; Mercies in your Hearts, who by the ſame are ingaged to fol<g ref="char:EOLhyphen"/>low the Lord, and hold forth your Teſtimonies for his righteous Name, bleſſed you are, as you abide in the overcoming love of God, by which your hearts have been drawn after the Lord, and after a further enjoy<g ref="char:EOLhyphen"/>ment of his Life, who cannot be ſa<g ref="char:EOLhyphen"/>tisfied without the freſh breakings in of his Love into your hearts. Oh bleſſed are you for ever, however the Lord may diſpoſe of you as to the
+<pb n="48" facs="tcp:93112:25"/>outward man; the Lord will be un<g ref="char:EOLhyphen"/>to you as the ſhadow of a mighty Rock in a weary Land; you are the begotten of himſelf by the Word of his Power, he will nouriſh you by the vertue of his own life, and by the ſweetneſs of his own love, and this being felt, it makes all eaſie and delightſome whatſoever, for there is nothing to be compared with this love of our God. Therefore ariſe you Sons and Daughters of the Lord, and ſhew forth the love that you bear to him, that all may know whoſe off-ſpring you are, and how highly you eſteem of the goodneſs of God, that you can forſake all for him, and the light of his countenance, which is more to you than all the world. Oh Friends, it is for your ſakes that the Lord hath done great things already, and yet will the Lord do greater things in the Earth for you, as in the heavenly life you abide, the Lord will ariſe for your help in the time of your diſtreſs and
+<pb n="49" facs="tcp:93112:25"/>need; And therefore fear not you the wrath of man, nor the fury of the ungodly, but in the life look un<g ref="char:EOLhyphen"/>to the Rock of your Salvation, and he will beautifie you with the Robes of Righteouſneſs, and with the Gar<g ref="char:EOLhyphen"/>ments of Praiſes, that all may ſee and confeſs, to the glory of him that hath ſhined forth of <hi>Sion</hi> this day. And dear Friends, you that have felt the love of God, in gathering you out of the world, and in preſerving you un<g ref="char:EOLhyphen"/>to this day; let the kindneſs of the Lord, and the compaſſion that he hath ſhewed to you, be an ingage<g ref="char:EOLhyphen"/>ment upon your hearts, to walk with the Lord in faithfulneſs, that as the Lord hath watered your Souls with the ſtreams of life, and pure love from day to day, and from time to time, he might ſtill continue the ſame to you unto the end of your days, that your bloſſom thereby may not wither, but be kept beautiful in the Eyes of the Lord, that his de<g ref="char:EOLhyphen"/>light may be in you to do you good,
+<pb n="50" facs="tcp:93112:26" rendition="simple:additions"/>to rejoyce over you in his love, as it hath been in times paſt, that by the ſame we might grow further in love with him, and be more and more affected with his glory, that however it be permitted to fall out concerning theſe Bodies, we may be the Lord's, and he the lot of our In<g ref="char:EOLhyphen"/>heritance; Then ſhall we be con<g ref="char:EOLhyphen"/>ſtrained to ſay, <hi>Our lot it fallen in good Ground:</hi> And therefore you render Babes, be not diſcouraged nor amazed at the face of things, for mighty is the Lord who is with us, and glorious is his Arm that doth compaſs us about this day, and pure is the Food that the Lord is feeding the tender ſpirited withal, which makes us undervalue all the world, and its glory, becauſe our hearts are raviſhed with the love of God, which <hi>wonderfully</hi> is made manifeſt this day; glory be to the Name of the Lord for ever, who breaks in upon us by the force of his love daily, ſo that our Souls are become as watered Gardens,
+<pb n="51" facs="tcp:93112:26"/>through the thowring down of his Bleſſings, wherewith my Soul is vi<g ref="char:EOLhyphen"/>ſited at this time, and in which I do viſit you all in the life of God, in Bonds, or elſewhere who are called to bear witneſs for the Lord, in this trying, but not deſtroying day, that the purpoſe of our God may be ful<g ref="char:EOLhyphen"/>filled, and his determination com<g ref="char:EOLhyphen"/>pleated, that the works of the Lord may bring him praiſe in the Gates of the wicked, who alone is worthy of Glory and Honour, for ever and ever, ſaith my Soul.</p>
+            <closer>
+               <signed>From a Friend to all the upright heart<g ref="char:EOLhyphen"/>ed People of God, that wait for the building of diſtreſſed <hi>Sion,</hi> known by the Name of <hi>Robert Lodge.</hi>
+               </signed>
+               <dateline>
+                  <hi>Given forth at the Houſe of Correction in</hi> Wakefield, <date>
+                     <hi>the</hi> 9th <hi>Day of the third Month,</hi> 1665.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="52" facs="tcp:93112:27"/>
+            <head>A Teſtimony concerning the Life and Death of our dear Friend and Brother in the Lord <hi>John Stubbs.</hi>
+            </head>
+            <p>HE received the Lord's Truth in 1653. at <hi>Carlile,</hi> and for<g ref="char:EOLhyphen"/>ſook much for it, and did Travel with me in the Lord's Service up and down in <hi>England:</hi> And he was a Schollar, and an excellent Writer, and a notable Miniſter of the Goſpel of Chriſt, and went through many Sufferings and Hardſhips for the Go<g ref="char:EOLhyphen"/>ſpel's ſake; and after he and <hi>William Caton</hi> for declaring the Truth at <hi>Maidſtone</hi> in <hi>Kent,</hi> the Magiſtrates and wicked Prieſts and Profeſſors cauſed them to be ſet in the Stocks, and Whipt, and put out of the
+<pb n="53" facs="tcp:93112:27"/>Town, about 1652 in <hi>Oliver Crom<g ref="char:EOLhyphen"/>well</hi>'s days: and he having been a <hi>Baptiſt,</hi> did convince ſome of them, and turned many to the Lord: And after he, and <hi>Samuel Fiſher</hi> who had been a <hi>Baptiſt,</hi> and a <hi>Pariſh-Prieſt,</hi> travelled to <hi>Rome</hi> through thoſe dark Countries, and they having caſt ſome of our Friends into the <hi>Inquiſition,</hi> all was ſhut up; but only they had ſome Service for the Lord with ſome <hi>Car<g ref="char:EOLhyphen"/>dinals,</hi> and the <hi>Jews,</hi> and ſome <hi>Monks</hi> and <hi>Fryers,</hi> and ſuch like; and they confeſt it was the Truth; but if they ſhould confeſs it openly they would burn them. And about the Year 1660. he and ſome other Friends had it in their minds to go to the <hi>Eaſt-Indies,</hi> and the <hi>Eaſt-India</hi>-Com<g ref="char:EOLhyphen"/>pany would not let them go in their Ships; and they got an order from the King to let them go, and they would not obey it. And then they went into <hi>Holland</hi> to get paſſage there for the <hi>Eaſt-Indies,</hi> and they alſo denyed them; and then they
+<pb n="54" facs="tcp:93112:28"/>took Shiping, and went as far as <hi>Egypt</hi> to <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <hi>Eaſt-Indies</hi> by <hi>Carav<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> where the <hi>Engliſh Conſul</hi> baniſhed them out of <hi>Egypt;</hi> and then they came to <hi>England</hi> again, after they had had ſome Service for the Lord in ſeveral places. And <hi>John Stubbs</hi> the Lord let him ſee that the <hi>Engliſh</hi> and the <hi>Dutch</hi> would go to War one with another, which not long after came to paſs. And about the Year 1670. he Travelled with with me to <hi>Barbadoes,</hi> and alſo he went to <hi>New-England,</hi> where he laboured in the Grace of God, and had a good Service for the Lord; and from thence he went to <hi>Barbadoes</hi> again, freely preaching the everlaſt<g ref="char:EOLhyphen"/>ing Goſpel of Chriſt, and then he came into <hi>England;</hi> and when he had fulfilled his Miniſtry, and finiſh<g ref="char:EOLhyphen"/>ed his Teſtimony, he dyed in the Lord, and is at Reſt and Peace with him, and is bleſſed, and ceaſed from his Labours, and his Works follow him: And he departed this Life near
+<pb n="55" facs="tcp:93112:28"/>
+               <hi>London,</hi> about 1673. He was a wiſe Man, and ſought the Peace of the Church of Chriſt, and was a good Example: he preacht in good Life and Converſation, as well as good Doctrine, and was zealous, and never turned from the Lord from his firſt receiving of him, but bore all his Sufferings and Reproaches faith<g ref="char:EOLhyphen"/>fully for the Name of Jeſus, who was one of his Followers, and was many times exerciſed with Apoſtates and Prophane, and had Tryals by falſe Brethren, but the Lord in his Power gave him Dominion over them all, bleſſed be his Name for ever; <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>The</hi> 13th <hi>of the</hi> 9th <hi>Month,</hi> 1690.</date>
+               </dateline>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
